@@ -1,5 +1,5 @@
 {
-  "aarch64-darwin": "sha256-I0ElCgIqas3mZadTlpNsXk6oIHn6JiVKeu6Kk1vtu7w=",
-  "aarch64-linux": "sha256-dZKvH4zOMJ4wqfmlgl/cHZxO8elCHznsgYgR/9pIAbs=",
-  "x86_64-linux": "sha256-j5rz4BRqAcNeicgQ6Pq+Ind0wctOKKQQdZmoR+MAYv8="
+  "aarch64-darwin": "sha256-NOhVJJZcMhYCI+/EY8KeXO5NHq4yaUNOMHf/7hYsCFw=",
+  "aarch64-linux": "sha256-gBXWZscdlsnt4sF1+e+ZNj+A3dG3InEllvSBsziMkkw=",
+  "x86_64-linux": "sha256-gMPn2RJ2bbF9ReWX4t4t5rle6YllQjtjrYJJ5wR/RBs="
 }
